@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Courage13
 - 👀 I’m interested in ... Blockchain Developement
 - 🌱 I’m currently learning ...Smart contract development
-- 💞️ I’m looking to collaborate on ... Crypto Queens CQ
+- 💞️ I’m looking to collaborate on ... Crypto Queenz CQZ
 - 📫 How to reach me ... @DaughterofLions Insta/CH or Discord
 
 <!---
